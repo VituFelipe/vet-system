@@ -13,7 +13,7 @@ Siga estas instruções para configurar e executar o backend da API no seu ambie
 
 2.  **Clonar o Repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/VituFelipe/vet-system.git
     cd vet-system
     ```
 
