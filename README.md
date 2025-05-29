@@ -231,4 +231,3 @@ Todas as rotas da API estão prefixadas com `/api`.
         * URL: `http://localhost:3000/api/animais`
         * Cabeçalho: Adicione um cabeçalho `Authorization` com o valor `Bearer <seu_token_jwt>`.
 
-Esta documentação deve fornecer as informações necessárias para que outros desenvolvedores (ou você mesmo no futuro) possam entender e utilizar sua API de gerenciamento veterinário. Lembre-se de adaptar os exemplos e as explicações conforme você adiciona mais funcionalidades (como rotas para atualizar e excluir registros).
